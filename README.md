@@ -11,7 +11,7 @@ The dataset contains historical gold prices, specifically:
 - `Price Today`
 
 The target is to predict `Price Today` using the past two days' prices.
-
+The data is taken from the kaggle Gold Prices dataset.
 ## Libraries Used
 - **pandas** for data handling
 - **numpy** for numerical operations
